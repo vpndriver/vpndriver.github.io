@@ -27,10 +27,10 @@ VPNDriver又名VPN老司机，目前已经有iOS版本：
 
 
 ## 专线购买步骤
-*# 到App store搜索“vpndriver”下载安装VPNDriver Pro专业版App；
-*# 打开App后进入“专线”绑定邮箱地址；
-*# 点击“购买专线”选择专线数量完成支付；
-*# 请到阿里云购买新加坡节点服务器（系统选择CentOS 7.2 64位）；
-*# 用绑定的邮箱账号发送服务器IP、root的密码到上述邮箱地址；
-*# 我们将第一时间为您安装部署专线VPN后Email通知您；
-*# 按照VPN专线开通Email中的账号信息及其说明使用；
+1. 到App store搜索“vpndriver”下载安装VPNDriver Pro专业版App；
+2. 打开App后进入“专线”绑定邮箱地址；
+3. 点击“购买专线”选择专线数量完成支付；
+4. 请到阿里云购买新加坡节点服务器（系统选择CentOS 7.x 64位）；
+5. 用绑定的邮箱账号发送服务器IP、root的密码到邮箱地址(vpndriver@gmail.com)；
+6. 我们将第一时间为您安装部署专线VPN后Email通知您；
+7. 按照VPN专线开通Email中的账号信息及其说明使用；
